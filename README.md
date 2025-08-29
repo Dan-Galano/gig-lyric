@@ -2,6 +2,8 @@
 
 A Flutter-based mobile application that helps musicians manage their song lyrics and setlists for live performances.
 
+![image_alt](https://github.com/Dan-Galano/gig-lyric/blob/933d717a2f3ef04ec763731f1010a9ffc74c1dd4/giglyric.png)
+
 ⚠️ **WARNING**: 
 - May contain traces of messy code and questionable variable names
 - Side effects include easier gig preparation and less scrolling through your phone during performances
